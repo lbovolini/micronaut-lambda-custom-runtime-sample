@@ -15,3 +15,7 @@ curl -XPOST \
 -d '{}'
 
 ```
+
+## See
+
+[AWS Lambda Runtime Interface Emulator](https://github.com/aws/aws-lambda-runtime-interface-emulator)
